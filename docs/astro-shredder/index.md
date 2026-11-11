@@ -10,7 +10,7 @@ AstroShredder is a space shooter you play with a piano. Enemies fly at your ship
 
 ## Contact
 
-Questions, bug reports or feedback? Email **YOUR-EMAIL** and include your device model and, if you use one, the model of your MIDI keyboard.
+Questions, bug reports or feedback? Email **[manolofdez@gmail.com](mailto:manolofdez@gmail.com)** and include your device model and, if you use one, the model of your MIDI keyboard.
 
 ## FAQ
 
@@ -22,6 +22,10 @@ No. AstroShredder includes an on-screen virtual piano, with a sustain pedal butt
 
 - **USB:** connect your keyboard to your iPhone or iPad with a cable (you may need a USB-C or Lightning adapter). It should appear right away under **Settings → MIDI**.
 - **Bluetooth:** turn on Bluetooth MIDI on your keyboard, then open **Settings → MIDI** in AstroShredder and select it under **Other Bluetooth Devices**.
+
+### How do I pause the game?
+
+Tap anywhere on the game screen above the piano. From the pause screen you can **Resume**, **Restart** the stage or **Quit**. The game also pauses automatically if you leave the app.
 
 ### My Bluetooth keyboard doesn't show up
 

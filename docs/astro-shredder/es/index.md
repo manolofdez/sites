@@ -10,7 +10,7 @@ AstroShredder es un juego de naves que se juega con un piano. Los enemigos vuela
 
 ## Contacto
 
-¿Preguntas, errores o comentarios? Escribe a **YOUR-EMAIL** e incluye el modelo de tu dispositivo y, si usas uno, el modelo de tu teclado MIDI.
+¿Preguntas, errores o comentarios? Escribe a **[manolofdez@gmail.com](mailto:manolofdez@gmail.com)** e incluye el modelo de tu dispositivo y, si usas uno, el modelo de tu teclado MIDI.
 
 ## Preguntas frecuentes
 
@@ -22,6 +22,10 @@ No. AstroShredder incluye un piano virtual en pantalla, con un botón de pedal d
 
 - **USB:** conecta tu teclado a tu iPhone o iPad con un cable (puede que necesites un adaptador USB-C o Lightning). Debería aparecer de inmediato en **Ajustes → MIDI**.
 - **Bluetooth:** activa el MIDI por Bluetooth en tu teclado, luego abre **Ajustes → MIDI** en AstroShredder y selecciónalo en **Otros dispositivos Bluetooth**.
+
+### ¿Cómo pauso el juego?
+
+Toca cualquier parte de la pantalla de juego por encima del piano. Desde la pantalla de pausa puedes **Continuar**, **Reiniciar** el nivel o **Salir**. El juego también se pausa automáticamente si sales de la app.
 
 ### Mi teclado Bluetooth no aparece
 
