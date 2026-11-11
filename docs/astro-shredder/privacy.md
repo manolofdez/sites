@@ -32,4 +32,4 @@ If this policy changes, the updated version will be posted on this page with a n
 
 ## Contact
 
-Questions about this policy? Email **YOUR-EMAIL**.
+Questions about this policy? Email **[manolofdez@gmail.com](mailto:manolofdez@gmail.com)**.

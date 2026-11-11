@@ -32,4 +32,4 @@ Si esta política cambia, la nueva versión se publicará en esta página con un
 
 ## Contacto
 
-¿Preguntas sobre esta política? Escribe a **YOUR-EMAIL**.
+¿Preguntas sobre esta política? Escribe a **[manolofdez@gmail.com](mailto:manolofdez@gmail.com)**.
